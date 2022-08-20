@@ -1,0 +1,15 @@
+.card-body h1{
+    color: black;
+}
+
+.card-body h4{
+    color: black;
+}
+
+.card-body p{
+    color: black;
+}
+.card-body .btn{
+    margin-left: 0;
+    text-align: center;
+}
